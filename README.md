@@ -7,7 +7,7 @@ Se trata de un ejercicio sencillo como lo es un Hola mundo en en java.
 ## Requisitos para su instalación / puesta en marcha (Amplia Info [Instalación](https://github.com/karlasantillana/karlasantillana/wiki/Instalaci%C3%B3n))
 Tener Windows 7 en adelante 
 
-## Guía rápida de instalación (Amplia Info [Ejecución]())
+## Guía rápida de instalación (Amplia Info [Ejecución](https://github.com/karlasantillana/karlasantillana/wiki/Ejecuci%C3%B3n))
 Clicar en "download"
 
 ## Información del Autor
