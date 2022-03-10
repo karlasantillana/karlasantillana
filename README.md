@@ -2,13 +2,19 @@
 Hola mundo 👋
 
 ## Descripción del proyecto
-Fichero README.md
+Se trata de un ejercicio sencillo como lo es un Hola mundo en en java.
 
-## Autora
+## Requisitos para su instalación / puesta en marcha (Amplia Info [Instalación](https://github.com/karlasantillana/karlasantillana/wiki/Instalaci%C3%B3n))
+Tener Windows 7 en adelante 
+
+## Guía rápida de instalación (Amplia Info [Ejecución](https://github.com/karlasantillana/karlasantillana/wiki/Ejecuci%C3%B3n))
+Clicar en "download"
+
+## Información del Autor
 Karla Santillana
 <!--
 **karlasantillana/karlasantillana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Autora: Karla
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
